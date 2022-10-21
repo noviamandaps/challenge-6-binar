@@ -34,7 +34,7 @@ sequelize db:seed:all
 Data superadmin yang digunakan untuk login dan mengakses seluruh endpoint.
 ```
 email: superadmin@gmail.com
-password: qwerty
+password: superadmin123
 ```
 ```
 npm run start
